@@ -31,7 +31,7 @@ _- Study and work while they sleep; even if you want to sleep too!_ 😂😂
 ### How to contact me?
 _Como me contatar?_
 
-* Email: <a href="helder2903ds@gmail.com" target="_blank">
+* Email: <a href="mailto:helder2903ds@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-HelderSantos-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a> <br/>
 
