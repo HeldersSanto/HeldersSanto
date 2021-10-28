@@ -40,9 +40,12 @@ _Como me contatar?_
 </a> <br/>
 
 * Portifolio(_área de contato_): 
+<hr/>
 
+### Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=HeldersSanto&show_icons=true&theme=vision" alt="Helder Santo's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeldersSanto&layout=compact&theme=vision" alt="Helder Santos's most languages"/>
 </p>
+<hr/>
