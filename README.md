@@ -1,4 +1,4 @@
-<img align="right" height="550px" src="me.png" />
+<img align="right" height="600px" src="me.png" />
 
 # Olá, Helder aqui!!  👨‍💻
 ### Front-end Developer
